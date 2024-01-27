@@ -14,8 +14,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Gustavo Schnoor
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### https://www.linkedin.com/in/gustavo-schnoor/
 
 ```
