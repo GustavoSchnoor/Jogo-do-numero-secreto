@@ -1,21 +1,18 @@
-```
+# Portfólio
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá, bem-vindo ao meu projeto de portfólio.
 
-![site-print](https://github.com/GustavoSchnoor/Jogo-do-numero-secreto/assets/153643888/caa2a550-037a-4bde-b151-5fed42c9a40f)
+![Site Print](https://github.com/GustavoSchnoor/Jogo-do-numero-secreto/assets/153643888/caa2a550-037a-4bde-b151-5fed42c9a40f)
 
-## Ferramentas utilizadas:
+## Ferramentas Utilizadas
 
-* HTML
+- HTML
+- CSS
+- Flex-box
 
-* CSS
-
-* Flex-box
-
-## Feito por:
+## Desenvolvido por
 
 ### Gustavo Schnoor
 
-### https://www.linkedin.com/in/gustavo-schnoor/
+- LinkedIn: [Gustavo Schnoor](https://www.linkedin.com/in/gustavo-schnoor/)
 
-```
